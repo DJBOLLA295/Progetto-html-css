@@ -417,7 +417,8 @@ p
         display: block;
         padding: 40px 25px;
         line-height: 1;
-        transition: 0.3s;}
+        transition: 0.3s;
+        font-size: 28px;}
         
 .menu li a:hover{
     background-color: var(--color1) ;
@@ -550,7 +551,7 @@ p
     padding: 40px 25px;
     line-height: 1;
     transition: 0.3s;
-    font-sise: 80px;}
+    font-size: 50px;}
 
 .menu li a:hover{
     background-color: var(--color1) ;
