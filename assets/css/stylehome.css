@@ -549,7 +549,8 @@ p
     display: block;
     padding: 40px 25px;
     line-height: 1;
-    transition: 0.3s;}
+    transition: 0.3s;
+    font-sise: 80px;}
 
 .menu li a:hover{
     background-color: var(--color1) ;
